@@ -3,20 +3,20 @@ export const standard = (/* vars, { ctx, req } */) => ({
   articles: [
     {
       id: 42,
-      title: 'test',
-      body: 'test body',
+      title: 'test1',
+      body: 'bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb',
       createdAt: new Date().toISOString(),
     },
     {
       id: 43,
-      title: 'test',
-      body: 'test body',
+      title: 'test3',
+      body: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa',
       createdAt: new Date().toISOString(),
     },
     {
       id: 44,
-      title: 'test',
-      body: 'test body',
+      title: 'test2',
+      body: 'cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc',
       createdAt: new Date().toISOString(),
     },
   ],
